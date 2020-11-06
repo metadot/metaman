@@ -26,8 +26,8 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-```console
-GIT_USER=supercobra USE_SSH=true yarn deploy
-```
+The deployment is automated when someone merge to the `live` branch.
+The site is hosted on Netify:
 
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+- infallible-payne-0327ee.netlify.app
+- metaman.metadot.com

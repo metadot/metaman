@@ -58,7 +58,7 @@ module.exports = {
             },
             {
               label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
+              href: 'https://github.com/metadot/metaman',
             },
           ],
         },
