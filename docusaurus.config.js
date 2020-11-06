@@ -5,13 +5,13 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Metadot', // Usually your GitHub org/user name.
+  projectName: 'metaman', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'Metaman',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Metaman Logo',
         src: 'img/logo.svg',
       },
       items: [
