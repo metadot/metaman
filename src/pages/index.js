@@ -8,32 +8,37 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'Easy to Use',
+    title: 'The Handbook',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+       The Metaman is the central repository for how we run the company.
+       It's open to the world and we gladdly welcome feedback.
+       Please <a href='https://github.com/metadot/metaman/issues'>
+         open an issue</a> or a pull request to suggest improvements.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Engage a worldwide team',
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+       The Metaman is helps our virtual teams to get their work done,
+       grow as professional and continually improve themselves and 
+       the products their work on. 
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'A tighly knit team',
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        When done correctly, engaging remote workers who can feel isolated
+        or lost now feel like working as a team the same location. 
+        Most of the challenges of working remotly are addressed
+         and the end result is surprisingly great.
       </>
     ),
   },
