@@ -27,7 +27,7 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 The deployment is automated when someone merge to the `live` branch.
-The site is hosted on Netify:
+The site is hosted on Netlify:
 
 - infallible-payne-0327ee.netlify.app
 - metaman.metadot.com
