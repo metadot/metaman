@@ -8,11 +8,12 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: 'The Handbook',
+    title: 'The Metadot Manual',
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-       The Metaman is the central repository for how we run the company.
+       The Metadot meta-manual aka Metaman is the central repository 
+       for how we run the company.
        It's open to the world and we gladdly welcome feedback.
        Please <a href='https://github.com/metadot/metaman/issues'>
          open an issue</a> or a pull request to suggest improvements.
@@ -24,7 +25,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-       The Metaman is helps our virtual teams to get their work done,
+       The Metaman guides our virtual teams to get their work done,
        grow as professional and continually improve themselves and 
        the products their work on. 
       </>
@@ -35,10 +36,11 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        When done correctly, engaging remote workers who can feel isolated
-        or lost now feel like working as a team the same location. 
-        Most of the challenges of working remotly are addressed
-         and the end result is surprisingly great.
+       Remote workers can sometime feel isolated
+        or lost. When used properly, the Metaman will help solve
+        most issues caused by working remotly and 
+        team members will feel like they are working together as a team
+        at the same location.
       </>
     ),
   },

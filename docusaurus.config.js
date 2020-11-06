@@ -18,7 +18,7 @@ module.exports = {
         {
           to: 'docs/',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'The Meta manual',
           position: 'left',
         },
         {to: 'blog', label: 'Blog', position: 'left'},
@@ -33,7 +33,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'The Manuel',
           items: [
             {
               label: 'Style Guide',
