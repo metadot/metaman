@@ -33,7 +33,7 @@ module.exports = {
       style: 'dark',
       links: [
         {
-          title: 'The Manuel',
+          title: 'The Manual',
           items: [
             {
               label: 'Style Guide',
@@ -49,14 +49,6 @@ module.exports = {
           title: 'Community',
           items: [
             {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
               label: 'Twitter',
               href: 'https://github.com/metadot/metaman',
             },
@@ -71,12 +63,12 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/metadot/metaman',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Metadot Corporation.`,
     },
   },
   presets: [
@@ -85,16 +77,15 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
           editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+            'https://github.com/metadot/metaman/edit/master/',
         },
-        blog: {
-          showReadingTime: true,
+        // blog: {
+          // showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
+          // editUrl:
+            // 'https://github.com/metadot/metaman/edit/master/',
+        // },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
