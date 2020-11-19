@@ -27,10 +27,6 @@ This command generates static content into the `build` directory and can be serv
 ## Deployment
 
 The deployment is automated when someone merge to the `live` branch.
-<<<<<<< HEAD
-=======
-The site is hosted on Netlify:
->>>>>>> 6f66f6e9807e868fc8308f59497cfe2aca10e81b
 
 The sites are hosted on Netlify:
 
