@@ -26,16 +26,18 @@ This command generates static content into the `build` directory and can be serv
 
 ## Deployment
 
-The deployment is automated when someone merge to the `live` branch.
-
-The sites are hosted on Netlify:
+Sites are hosted on Netlify.
 
 ### Production
+
+The deployment is automated when someone merge to the `live` branch.
 
 - <https://infallible-payne-0327ee.netlify.app>
 - <https://metaman.metadot.com>
 
 ### Staging
+
+The deployment is automated when someone merge to the `staging` branch.
 
 - <https://unruffled-varahamihira-eff298.netlify.app>
 - <https://staging.metaman.metadot.com>
