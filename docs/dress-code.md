@@ -4,7 +4,6 @@ title: Metadot Dress Code
 sidebar_label: Dress Code
 slug: /
 ---
-# Metaman - Dress Code
 
 Metadot is an entirely remote workplace, but still aims to create a unique and fun approach to work attire. 
 Another goal was to break down the “Groundhog Day” effect that typically starts to happen in a remote 
