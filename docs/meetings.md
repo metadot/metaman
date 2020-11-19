@@ -2,13 +2,13 @@
 id: meetings
 title: How to Run Meetings
 sidebar_label: Meetings
-
-
-# Video first meetings
+---
+## Video First Meetings
 
 - All meetings are with video
 - Focus on sound quality first and image second
-- One webcam and mic for one person only - no shared laptops with several people. Read why below.
+- One webcam and mic for one person only - no shared laptops with several people. See Issues with hybrid
+environment meetings.
 
 ## Organization
 
