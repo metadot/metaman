@@ -1,6 +1,6 @@
 module.exports = {
   someSidebar: {
-    Metaman: ['dress-code', 'onboarding' 'meetings'],
+    Metaman: ['dress-code', 'onboarding', 'meetings'],
   
   },
 };
