@@ -4,8 +4,6 @@ title: Onboarding Process of Metadot
 sidebar_label: Onboarding 
 
 ---
-# What to Expect in the Onboarding Process
-
 Welcome to the Onboarding process at Metadot! Here is a brief overview of the agenda and expectations that you will encounter throughout your onboarding process.
 
 ## Before the first day
