@@ -32,15 +32,14 @@ and there are others virtually attending the same meeting
 - If 2 people share a laptop, one or both of them end up having an image where we don’t see 
 their face 100%.
 
-
 ## Roles in the Meeting
 
 - The host of the meeting = the leader of the meeting.
 Share talking time, encourage people to participate, abd
 Drive team to go through agenda items.
 Ensure that team is on topic, and stop off-tangent or too detailed discussions.
-Produce deliverables. 
-- Presenter 
+Produce deliverables.
+- Presenter
 - Scribe = Individual assigned to take notes or record the meeting session (e.g. Zoom recording)
 - Time Keeper = Ensures that the meeting is staying within time constraints
 For small meetings, this can be the same person.
@@ -68,15 +67,13 @@ For small meetings, this can be the same person.
 
 ## Managing TODOs
 
-For items that the participant is expected “To Do,” the leader should ask this individual 
-to repeat what is expected, to ensure that the expectation is clear and understood by both parties 
+For items that the participant is expected “To Do,” the leader should ask this individual
+to repeat what is expected, to ensure that the expectation is clear and understood by both parties
 
 ## Attendees Expectations
 
-- Mute their microphones during the presentation. 
+- Mute their microphones during the presentation.
 Unmute to notify the presenter that they would like to ask a question, or comment
-- Avoid meeting and speaker interruptions. 
-This is a general rule in life (except for the “appropriate” interruptions), but it is harder to understand people in a virtual environment since there is a lag time for voice and video transmission. 
-- Mute phone ringtones during meetings 
-
-
+- Avoid meeting and speaker interruptions.
+This is a general rule in life (except for the “appropriate” interruptions), but it is harder to understand people in a virtual environment since there is a lag time for voice and video transmission.
+- Mute phone ringtones during meetings
