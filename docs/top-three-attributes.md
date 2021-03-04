@@ -2,7 +2,6 @@
 id: top-three-attributes
 title: Top Three Attributes
 sidebar_label: Top Three Attributes
-slug: /
 ---
 
 The research from the Empirical Software Engineer team asked 1,926 experts the top attributes that make a successful engineer and the results found: attention to detail, the continuous drive to improve, and honesty to be highly valued. At Metadot, we have found ways that these attributes are applicable far beyond just engineering, and strive to implement and develop these skills throughout our organization. Here are the ways that these attributes are valuable, and how we apply them.

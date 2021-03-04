@@ -2,7 +2,6 @@
 id: coffee-dates
 title: Coffee Dates
 sidebar_label: Coffee Dates
-slug: /
 ---
 
 At Metadot, we believe in the importance of teamwork and emotional development. We don’t want to create individuals who are just skilled in one area - we want  to create well-rounded, emotionally, physically, mentally and intellectually intelligent people. People who are self-aware, and strong communicators. This is where we introduced the Coffee Dates exercise. The prompts are not easy, small-talk questions, they are thought-provoking and make the individual self reflect. When you have a better understanding of yourself, you are better able to articulate your thoughts and become a more well-rounded human. When you are exposed to a more thorough side of another teammate, you have a better understanding of how they operate, and this helps everyone become a better support system when tackling challenges.
