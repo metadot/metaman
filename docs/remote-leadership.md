@@ -2,7 +2,6 @@
 id: remote-leadership
 title: Remote Leadership
 sidebar_label: Remote Leadership
-slug: /
 ---
 
 At Metadot, we have created an acronym that takes into account the key qualities that make a successful remote leader: R.E.M.O.T.E
