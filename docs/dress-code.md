@@ -19,14 +19,14 @@ Each member of the team wears the color green in the morning meeting to symboliz
 “Sprint” spreadsheet
 
 - Green indicates the progress the individual has made completing tasks from the week prior.
-- Green = Completely finished and quality checked all tasks = `DONE`. This is the beginning of the week, so Metadot
-aims to keep Monday’s exciting and celebrated, a way we do this is through our Green dress code
+- Green = Completely finished and quality checked all tasks = `DONE`. This is the beginning of the week, so Metadot aims to keep Monday’s exciting and celebrated, a way we do this is through our Green dress code
 - The green dress code allows for employees to be creative with how they choose to wear the green, and show individuality. While
 also building team spirit as everyone is collectively participating in the system
 
 ## Tuesday - Thursday
 
 The clothing choice for these days is simply up to the individual but has basic expectations for appropriateness
+
 Looking Presentable
 
 - Hair brushed, t-shirts, pollos, casual button-ups, etc.
@@ -42,8 +42,7 @@ This means that on Fridays, each member of the team dresses in formal attire. We
 
 - Men are expected to wear button-ups and ties. Women are expected
 to either wear a dress, pant-suit or button-up blouse
-- A fun activity that employees can look forward to, and an excuse
-to get ready for something which is rare in times of quarantine
+- A fun activity that employees can look forward to, and an excuse to get ready for something which is rare in times of quarantine
 
 ## Special Occasions
 
