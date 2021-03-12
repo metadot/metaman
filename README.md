@@ -26,7 +26,6 @@ This command starts a local development server and open up a browser window. Mos
 id: dress-code
 title: Metadot Dress Code
 sidebar_label: Dress Code
-slug: /
 ---
 ````
 
